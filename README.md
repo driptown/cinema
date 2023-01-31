@@ -1,16 +1,16 @@
-# Forum App in React & Redux + Django
+# Full Stack Website in React & Redux + Django
 
 ```
-Forum App, with a frontend built in React & Redux and a backend built in Django API.
+Cinema Paradiso , with a frontend built in React & Redux and a backend built in Django API.
 ```
 
 ## Live Demo
 
 **This App uses a Replit free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://techis-wd-forum-django-react-frontend.techisio.repl.co/) here!!
+Check out [FRONTEND LIVE DEMO](paste the front end link here/) here!!
 
-Check out [API LIVE DEMO](https://techis-wd-forum-django-react-backend.techisio.repl.co/) here!!
+Check out [API LIVE DEMO](paste the backend link here/) here!!
 
 ## Tech used
 
